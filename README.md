@@ -2,7 +2,7 @@
 
 OVERVIEW
 
-Analyzed healthcare datasets to uncover hospital billing trends, seasonal admission rates, and patient demographics. Used Python and SQL for data cleaning and Power BI for dashboard visualization.
+Analyzed healthcare datasets to uncover hospital billing trends, seasonal admission rates, and patient demographics. Used Python for data cleaning and Power BI for dashboard visualization.
 
 
 INSIGHTS EXTRACTED
@@ -16,7 +16,7 @@ Analyzed demographic breakdowns of patients
 
 TECH STACK
 
-Python (Pandas, Seaborn), MySQL
+Python (Pandas, Seaborn)
 
 Power BI, Power Query, DAX
 
